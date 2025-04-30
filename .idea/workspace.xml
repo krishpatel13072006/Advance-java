@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9acad73-4a39-4bfc-9149-f451d773537a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advance_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Arraylist/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Arraylist/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comparable/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comparator/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/shirtsize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/class_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2wIshSFHzPYOW8Pus2weSy5Uv1j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GenericConstructor.executor": "Run",
+    "Application.GenericMethod.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.a.executor": "Run",
+    "Application.box.executor": "Run",
+    "Application.cars.executor": "Run",
+    "Application.class_1.executor": "Run",
+    "Application.color.executor": "Run",
+    "Application.hello.executor": "Run",
+    "Application.pair.executor": "Run",
+    "Application.shirtsize.executor": "Run",
+    "Application.student.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/HP/Desktop/java folder/Advance_java/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9acad73-4a39-4bfc-9149-f451d773537a" name="Changes" comment="" />
+      <created>1745740541022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745740541022</updated>
+    </task>
+    <servers />
+  </component>
+</project>
