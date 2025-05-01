@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9acad73-4a39-4bfc-9149-f451d773537a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/LInkedlist/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Vector/Helloo.java" afterDir="false" />
+    <list default="true" id="d9acad73-4a39-4bfc-9149-f451d773537a" name="Changes" comment="LinkedList&#10;Vector">
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Stack/Hello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection_Framework/LInkedlist/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection_Framework/LInkedlist/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "krishpatel13072006"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;krishpatel13072006&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/krishpatel13072006/Advance-java.git",
-    "accountId": "c5d774af-bdee-4f4c-b028-05cf14db9a08"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/krishpatel13072006/Advance-java.git&quot;,
+    &quot;accountId&quot;: &quot;c5d774af-bdee-4f4c-b028-05cf14db9a08&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -50,30 +50,30 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.GenericConstructor.executor": "Run",
-    "Application.GenericMethod.executor": "Run",
-    "Application.Hello.executor": "Run",
-    "Application.Helloo.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Student.executor": "Run",
-    "Application.a.executor": "Run",
-    "Application.box.executor": "Run",
-    "Application.cars.executor": "Run",
-    "Application.class_1.executor": "Run",
-    "Application.color.executor": "Run",
-    "Application.hello.executor": "Run",
-    "Application.pair.executor": "Run",
-    "Application.shirtsize.executor": "Run",
-    "Application.student.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/HP/Desktop/java folder/Advance_java/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.GenericConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Helloo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.box.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.class_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.color.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pair.executor&quot;: &quot;Run&quot;,
+    &quot;Application.shirtsize.executor&quot;: &quot;Run&quot;,
+    &quot;Application.student.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/HP/Desktop/java folder/Advance_java/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,6 +83,15 @@
       <option name="presentableId" value="Default" />
       <updated>1745740541022</updated>
     </task>
+    <task id="LOCAL-00001" summary="LinkedList&#10;Vector">
+      <option name="closed" value="true" />
+      <created>1746090331433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746090331433</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LinkedList&#10;Vector" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedList&#10;Vector" />
   </component>
 </project>

@@ -20,12 +20,8 @@ public class Hello {
         System.out.println(obj.contains(23));
         System.out.println(obj.containsAll(x1));
 
-        System.out.println( obj.peekFirst());
-        System.out.println(obj.getLast());
-
-        System.out.println(obj.poll());
-        System.out.println(obj.pollLast());
-        System.out.println(obj.pop());
+        obj.set(0,16);
+        System.out.println(obj);
 
         for (Integer n: obj)
         {
