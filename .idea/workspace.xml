@@ -4,46 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9acad73-4a39-4bfc-9149-f451d773537a" name="Changes" comment="LinkedList&#10;Vector&#10;Stack">
-      <change afterPath="$PROJECT_DIR$/src/_1_Enums/country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_1_Enums/fruits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2_Generics/chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2_Generics/colleges_ranking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_2_Generics/details.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_3_Collection_Framework/_5_Hashmap/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_4_Comparable/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_4_Comparable/teachers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_5_Comparator/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_6_Multithreading/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_6_Multithreading/Methods/methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_6_Multithreading/Methods/methods_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_6_Multithreading/World.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_6_Multithreading/_lifecycle/mythread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_6_Multithreading/demon_Thread/Mythread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_6_Multithreading/interrupt/Myhthread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d9acad73-4a39-4bfc-9149-f451d773537a" name="Changes" comment="Mutltithreading">
+      <change afterPath="$PROJECT_DIR$/src/_6_Multithreading/synchronization/Mythread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_6_Multithreading/synchronization/counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_Lambda_expressions/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_7_Lambda_expressions/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection_Framework/Arraylist/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_Collection_Framework/_1Arraylist/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection_Framework/Arraylist/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_Collection_Framework/_1Arraylist/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection_Framework/LInkedlist/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_Collection_Framework/_2_LInkedlist/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection_Framework/Stack/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_Collection_Framework/_4_Stack/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection_Framework/Vector/Helloo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_3_Collection_Framework/_3_Vector/Helloo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comparable/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4_Comparable/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comparator/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_5_Comparator/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enums/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_Enums/a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enums/cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_Enums/cars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enums/color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_Enums/color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enums/days.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_Enums/days.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enums/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_Enums/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enums/hi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_Enums/hi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enums/shirtsize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_Enums/shirtsize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generics/GenericConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2_Generics/GenericConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generics/GenericMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2_Generics/GenericMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generics/class_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2_Generics/class_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generics/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2_Generics/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generics/name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2_Generics/name.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generics/pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2_Generics/pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generics/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_2_Generics/student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +44,7 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2wIshSFHzPYOW8Pus2weSy5Uv1j" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -86,43 +52,44 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Employee.executor": "Run",
-    "Application.GenericConstructor.executor": "Run",
-    "Application.GenericMethod.executor": "Run",
-    "Application.Hello.executor": "Run",
-    "Application.Helloo.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Myhthread.executor": "Run",
-    "Application.Mythread.executor": "Run",
-    "Application.Student.executor": "Run",
-    "Application.World.executor": "Run",
-    "Application.a.executor": "Run",
-    "Application.box.executor": "Run",
-    "Application.cars.executor": "Run",
-    "Application.chat.executor": "Run",
-    "Application.class_1.executor": "Run",
-    "Application.colleges_ranking.executor": "Run",
-    "Application.color.executor": "Run",
-    "Application.country.executor": "Run",
-    "Application.days.executor": "Run",
-    "Application.fruits.executor": "Run",
-    "Application.hello.executor": "Run",
-    "Application.methods.executor": "Run",
-    "Application.methods_2.executor": "Run",
-    "Application.mythread.executor": "Run",
-    "Application.pair.executor": "Run",
-    "Application.shirtsize.executor": "Run",
-    "Application.student.executor": "Run",
-    "Application.teachers.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/HP/Desktop/java folder/Advance_java/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Helloo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Myhthread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mythread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.World.executor&quot;: &quot;Run&quot;,
+    &quot;Application.a.executor&quot;: &quot;Run&quot;,
+    &quot;Application.box.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.chat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.class_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.colleges_ranking.executor&quot;: &quot;Run&quot;,
+    &quot;Application.color.executor&quot;: &quot;Run&quot;,
+    &quot;Application.country.executor&quot;: &quot;Run&quot;,
+    &quot;Application.days.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fruits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methods_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mythread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pair.executor&quot;: &quot;Run&quot;,
+    &quot;Application.shirtsize.executor&quot;: &quot;Run&quot;,
+    &quot;Application.student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teachers.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/HP/Desktop/java folder/Advance_java/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -148,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746110912521</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Mutltithreading">
+      <option name="closed" value="true" />
+      <created>1748704804482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748704804482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +140,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="LinkedList&#10;Vector" />
     <MESSAGE value="LinkedList&#10;Vector&#10;Stack" />
-    <option name="LAST_COMMIT_MESSAGE" value="LinkedList&#10;Vector&#10;Stack" />
+    <MESSAGE value="Mutltithreading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mutltithreading" />
   </component>
 </project>
