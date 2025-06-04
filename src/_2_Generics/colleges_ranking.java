@@ -18,10 +18,6 @@ public class colleges_ranking<T,s> implements details<T,s>{
         return rank;
     }
 
-    public void setname(s name) {
-
-        this.name=name;
-    }
 
     @Override
     public s getsname() {
