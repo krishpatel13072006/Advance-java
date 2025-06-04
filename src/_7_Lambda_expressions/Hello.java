@@ -4,11 +4,16 @@ package _7_Lambda_expressions;
 //only have (arrow) ->
 public class Hello{
 
+    public void show()
+    {
+        System.out.println("hello krish");
+    }
+
     public static void main(String[] args) {
         show s1=()-> System.out.println("hello world!");
         s1.getmsg();
 
-        sum n1=(int a,int b)->{
+        sum n1=( a, b)->{
             System.out.println(a-b);
         };
         n1.getadd(10,10);
@@ -17,6 +22,8 @@ public class Hello{
             System.out.println(str.toUpperCase());
         };
         p1.len("krish");
+
+
 
     }
 }
